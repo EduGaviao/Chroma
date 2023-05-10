@@ -1,5 +1,5 @@
 
-# Trabalho 5: ChromaKey
+# ChromaKey
 
 Trabalho apresentado na disciplina de Processamento Digital de Imagens, lecionada no Universidade Tecnológica Federal do Paraná - UTFPR campus Toledo no período letivo de 2021/2.
 
